@@ -37,12 +37,12 @@ const Images = () => {
   }, []);
 
   return (
-    <div className="flex  h-96">
+    <div className="flex  h-96 m-8">
       {/* Image */}
       <img
         src={images[currentIndex]}
         alt={`Image ${currentIndex + 1}`}
-        className="w-screen h-full rounded-lg"
+        className=" h-96 lg:h-4/5 w-screen  sm:h-full rounded-lg"
       />
     </div>
   );
