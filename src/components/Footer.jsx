@@ -94,7 +94,7 @@ function Footer() {
               <span class="sr-only">linkedIn</span>
             </a>
             <a
-              href=""
+              href="https://medium.com/@bharathikannansambasivam"
               class="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5"
             >
               <svg
@@ -109,7 +109,7 @@ function Footer() {
               <span class="sr-only">Medium</span>
             </a>
             <a
-              href="#"
+              href="https://github.com/bharathikannansambasivam"
               class="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5"
             >
               <svg
