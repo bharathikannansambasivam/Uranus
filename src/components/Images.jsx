@@ -42,7 +42,7 @@ const Images = () => {
       <img
         src={images[currentIndex]}
         alt={`Image ${currentIndex + 1}`}
-        className=" h-96 lg:h-4/5 w-screen  sm:h-full rounded-lg"
+        className=" h-96 lg:h-4/5 w-screen  sm:h-full rounded-lg flex justify-center items-center"
       />
     </div>
   );

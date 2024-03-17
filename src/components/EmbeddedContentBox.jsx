@@ -15,7 +15,7 @@ const EmbeddedContentBox = () => {
         </div>
       </div>
 
-      <div className="w-full h-96 object-contain  mx-auto bg-gray-100 rounded-lg overflow-hidden shadow-lg">
+      <div className="w-full h-full object-contain  mx-auto bg-gray-100 rounded-lg overflow-hidden shadow-lg">
         <a
           href="https://www.dextools.io/app/en/solana/pair-explorer/Cu4Pxu7vh7CFGjMsfZFEhpp9Aj6FA7ciQDsbvs5hEkZK?t=1710608910993"
           target="_blank"
