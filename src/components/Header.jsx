@@ -7,7 +7,7 @@ function Header() {
         <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
           URANUS
         </span>{" "}
-        Web.{" "}
+        Web.🪐{" "}
       </h1>
       <div class="flex justify-center ">
         <div class="max-w-md border-4 border-blue-500 rounded animate-pulse p-4 flex items-center flex-col">
