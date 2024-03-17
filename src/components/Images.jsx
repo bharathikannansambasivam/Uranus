@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import image1 from "../assets/Untitled (1).png";
 import image2 from "../assets/Untitled (3).png";
 import image3 from "../assets/Untitled (4).png";
 import image4 from "../assets/Untitled (5).png";
@@ -11,7 +10,6 @@ import image9 from "../assets/Untitled (10).png";
 import image10 from "../assets/Untitled (11).png";
 
 const images = [
-  image1,
   image2,
   image3,
   image4,

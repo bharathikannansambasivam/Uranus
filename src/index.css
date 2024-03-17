@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (min-width: 1024px) {
+    .lg\:h-96 {
+        height: 50rem/* 384px */;
+    }
+}
